@@ -1,0 +1,22 @@
+function json {
+	jq --color-output . $1 | less -R
+	}
+
+function clean_docker {
+	# rm all containers
+	echo "removing all containers..."
+
+	# rm all images
+	echo "removing all images..."
+	docker rmi -f $(docker image ls -a -q)
+
+	# Pruning
+	echo "Pruning volumes..."
+	docker volume prune
+
+	echo "Pruning system..."
+	docker system prune
+
+	echo "Pruning images..."
+	docker image prune
+}
