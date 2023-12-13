@@ -1,0 +1,86 @@
+QUERY: what is the current distance of ISS?
+ANSWER: (data not available)
+RESPONSE: <?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    xml:space='preserve'
+    numpods='2'
+    datatypes='Planet,Satellite'
+    timedout=''
+    timedoutpods=''
+    timing='0.88'
+    parsetiming='0.399'
+    parsetimedout='false'
+    recalculate=''
+    id='MSP92522908351ee43ed4a00005ec4041ag4f89488'
+    host='https://www6b3.wolframalpha.com'
+    server='15'
+    related='https://www6b3.wolframalpha.com/api/v1/relatedQueries.jsp?id=MSPa92622908351ee43ed4a000039e69a44fdci87018884920455003441207'
+    version='2.6'
+    inputstring='what is the current distance of ISS'
+    nodata='true'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP92722908351ee43ed4a00001e3adc6he120hb0c?MSPStoreType=image/gif&amp;s=15'
+       alt='International Space Station | orbital altitude'
+       title='International Space Station | orbital altitude'
+       width='335'
+       height='33'
+       type='Grid'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>International Space Station | orbital altitude</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Grid' />
+  </expressiontypes>
+ </pod>
+ <pod title='Result'
+     scanner='Identity'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''
+      nodata='true'
+      primary='true'>
+   <datasources>
+    <datasource>NationalSpaceScienceDataCenter</datasource>
+    <datasource>SpaceTrack</datasource>
+    <datasource>AllensAstrophysicalQuantities</datasource>
+    <datasource>SolarSystemDynamics</datasource>
+   </datasources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP92822908351ee43ed4a00001g7h126beg269ccd?MSPStoreType=image/gif&amp;s=15'
+       alt='(data not available)'
+       title='(data not available)'
+       width='127'
+       height='19'
+       type='Default'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>(data not available)</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+ <sources count='2'>
+  <source url='https://www6b3.wolframalpha.com/sources/PlanetDataSourceInformationNotes.html'
+      text='Planet data' />
+  <source url='https://www6b3.wolframalpha.com/sources/SatelliteDataSourceInformationNotes.html'
+      text='Satellite data' />
+ </sources>
+ <generalization topic='International Space Station'
+     desc='General results for:'
+     id='MSP92922908351ee43ed4a000036906g241ibeh8d4'
+     url='https://www6b3.wolframalpha.com/api/v2/query?id=MSP92922908351ee43ed4a000036906g241ibeh8d4'
+     storedOnRedis='true' />
+</queryresult>

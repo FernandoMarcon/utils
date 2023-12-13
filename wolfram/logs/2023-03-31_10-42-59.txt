@@ -1,0 +1,72 @@
+QUERY: what is the integral of x squared?
+ANSWER: integral x^2 dx = x^3/3 + constant
+RESPONSE: <?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    xml:space='preserve'
+    numpods='2'
+    datatypes=''
+    timedout=''
+    timedoutpods=''
+    timing='0.712'
+    parsetiming='0.305'
+    parsetimedout='false'
+    recalculate=''
+    id='MSP30751h952a30eia5bi3200005bbi30hdd95gedaf'
+    host='https://www6b3.wolframalpha.com'
+    server='10'
+    related='https://www6b3.wolframalpha.com/api/v1/relatedQueries.jsp?id=MSPa30761h952a30eia5bi320000109f06cgd0a420i93142019838491228908'
+    version='2.6'
+    inputstring='what is the integral of x squared'>
+ <pod title='Indefinite integral'
+     scanner='Integral'
+     id='IndefiniteIntegral'
+     position='100'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP30771h952a30eia5bi3200001aead212h6c543a4?MSPStoreType=image/gif&amp;s=10'
+       alt='integral x^2 dx = x^3/3 + constant'
+       title='integral x^2 dx = x^3/3 + constant'
+       width='168'
+       height='43'
+       type='Default'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>integral x^2 dx = x^3/3 + constant</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+  <states count='1'>
+   <state name='Step-by-step solution'
+       input='IndefiniteIntegral__Step-by-step solution'
+       stepbystep='true'
+       buttonstyle='StepByStepSolution' />
+  </states>
+ </pod>
+ <pod title='Plot of the integral'
+     scanner='Integral'
+     id='Plot'
+     position='200'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP30781h952a30eia5bi3200003fba9ee55595c0a3?MSPStoreType=image/gif&amp;s=10'
+       alt='Plot of the integral'
+       title=''
+       width='323'
+       height='145'
+       type='2DMathPlot_1'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext></plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+</queryresult>

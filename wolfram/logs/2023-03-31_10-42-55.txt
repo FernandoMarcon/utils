@@ -1,0 +1,220 @@
+QUERY: who is the president of Brazil?
+ANSWER: Lula Da Silva (from 01.01.2023 to present)
+RESPONSE: <?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    xml:space='preserve'
+    numpods='6'
+    datatypes='Leader,Person'
+    timedout=''
+    timedoutpods=''
+    timing='1.468'
+    parsetiming='0.293'
+    parsetimedout='false'
+    recalculate=''
+    id='MSP892511h9e1gb12af77f400005bf82i2c8aed30cd'
+    host='https://www6b3.wolframalpha.com'
+    server='4'
+    related='https://www6b3.wolframalpha.com/api/v1/relatedQueries.jsp?id=MSPa892611h9e1gb12af77f400004dc6cb5fhh3645b86430556393126808734'
+    version='2.6'
+    inputstring='who is the president of Brazil'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP892711h9e1gb12af77f400005ig77f9b8ih1ha95?MSPStoreType=image/gif&amp;s=4'
+       alt='Brazil | president'
+       title='Brazil | president'
+       width='156'
+       height='33'
+       type='Grid'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>Brazil | president</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+ <pod title='Result'
+     scanner='Data'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP892811h9e1gb12af77f4000026df204ebaaf5a5e?MSPStoreType=image/gif&amp;s=4'
+       alt='Lula Da Silva (from 01.01.2023 to present)'
+       title='Lula Da Silva (from 01.01.2023 to present)'
+       width='243'
+       height='19'
+       type='Default'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>Lula Da Silva (from 01.01.2023 to present)</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+ <pod title='Basic information'
+     scanner='Data'
+     id='BasicInformation:LeaderData'
+     position='300'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <microsources>
+    <microsource>LeaderData</microsource>
+   </microsources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP892911h9e1gb12af77f400002639303245fc56dh?MSPStoreType=image/gif&amp;s=4'
+       alt='official position | president
+country | Brazil
+start date | 01.01.2023 (2 months 30 days ago)'
+       title='official position | president
+country | Brazil
+start date | 01.01.2023 (2 months 30 days ago)'
+       width='342'
+       height='103'
+       type='Grid'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>official position | president
+country | Brazil
+start date | 01.01.2023 (2 months 30 days ago)</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Grid' />
+  </expressiontypes>
+ </pod>
+ <pod title='Sequence'
+     scanner='Data'
+     id='LeaderSequence'
+     position='400'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <microsources>
+    <microsource>LeaderData</microsource>
+   </microsources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP893011h9e1gb12af77f400002g0e9eg17ggb6715?MSPStoreType=image/gif&amp;s=4'
+       alt='Sunday, January 1, 2023 to present | Lula Da Silva
+Tuesday, January 1, 2019 to Sunday, January 1, 2023 (4 years) | Jair Bolsonaro
+Thursday, May 12, 2016 to Monday, December 31, 2018 (2 years 7 months 19 days) | Michel Temer (acting)
+Saturday, January 1, 2011 to Thursday, May 12, 2016 (5 years 4 months 11 days) | Dilma Rousseff
+Wednesday, January 1, 2003 to Saturday, January 1, 2011 (8 years) | Lula Da Silva'
+       title='Sunday, January 1, 2023 to present | Lula Da Silva
+Tuesday, January 1, 2019 to Sunday, January 1, 2023 (4 years) | Jair Bolsonaro
+Thursday, May 12, 2016 to Monday, December 31, 2018 (2 years 7 months 19 days) | Michel Temer (acting)
+Saturday, January 1, 2011 to Thursday, May 12, 2016 (5 years 4 months 11 days) | Dilma Rousseff
+Wednesday, January 1, 2003 to Saturday, January 1, 2011 (8 years) | Lula Da Silva'
+       width='546'
+       height='237'
+       type='Grid'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>Sunday, January 1, 2023 to present | Lula Da Silva
+Tuesday, January 1, 2019 to Sunday, January 1, 2023 (4 years) | Jair Bolsonaro
+Thursday, May 12, 2016 to Monday, December 31, 2018 (2 years 7 months 19 days) | Michel Temer (acting)
+Saturday, January 1, 2011 to Thursday, May 12, 2016 (5 years 4 months 11 days) | Dilma Rousseff
+Wednesday, January 1, 2003 to Saturday, January 1, 2011 (8 years) | Lula Da Silva</plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Grid' />
+  </expressiontypes>
+  <states count='1'>
+   <state name='More'
+       input='LeaderSequence__More' />
+  </states>
+ </pod>
+ <pod title='Personal information'
+     scanner='Data'
+     id='LeaderDataPersonalInformationPod:PeopleData'
+     position='500'
+     error='false'
+     numsubpods='2'>
+  <subpod title=''>
+   <microsources>
+    <microsource>PeopleData</microsource>
+   </microsources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP893111h9e1gb12af77f4000043i95c972di2e724?MSPStoreType=image/gif&amp;s=4'
+       alt='full name | Luiz Inácio Lula da Silva
+date of birth | 27.10.1945 (age: 77 years)
+place of birth | Caetes, Pernambuco, Brazil'
+       title='full name | Luiz Inácio Lula da Silva
+date of birth | 27.10.1945 (age: 77 years)
+place of birth | Caetes, Pernambuco, Brazil'
+       width='315'
+       height='103'
+       type='Grid'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext>full name | Luiz Inácio Lula da Silva
+date of birth | 27.10.1945 (age: 77 years)
+place of birth | Caetes, Pernambuco, Brazil</plaintext>
+  </subpod>
+  <subpod title='Timeline'>
+   <microsources>
+    <microsource>PeopleData</microsource>
+   </microsources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP893211h9e1gb12af77f400002a21gd1h0495aic2?MSPStoreType=image/gif&amp;s=4'
+       alt='Personal information Timeline'
+       title=''
+       width='550'
+       height='38'
+       type='Default'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='true'
+       contenttype='image/gif' />
+   <plaintext></plaintext>
+  </subpod>
+  <expressiontypes count='2'>
+   <expressiontype name='Grid' />
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+ <pod title='Image'
+     scanner='Data'
+     id='Image:PeopleData'
+     position='600'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <imagesource>http://en.wikipedia.org/wiki/File%3ALula_-_foto_oficial05012007_edit.jpg</imagesource>
+   <microsources>
+    <microsource>PeopleData</microsource>
+   </microsources>
+   <img src='https://www6b3.wolframalpha.com/Calculate/MSP/MSP893311h9e1gb12af77f400005ebbb0g9a3ih6gfb?MSPStoreType=image/gif&amp;s=4'
+       alt='Image'
+       title=''
+       width='100'
+       height='150'
+       type='Default'
+       themes='1,2,3,4,5,6,7,8,9,10,11,12'
+       colorinvertable='false'
+       contenttype='image/gif' />
+   <plaintext></plaintext>
+  </subpod>
+  <expressiontypes count='1'>
+   <expressiontype name='Default' />
+  </expressiontypes>
+ </pod>
+ <userinfoused count='1'>
+  <userinfo name='TimeZone' />
+ </userinfoused>
+ <sources count='2'>
+  <source url='https://www6b3.wolframalpha.com/sources/LeaderDataSourceInformationNotes.html'
+      text='Leader data' />
+  <source url='https://www6b3.wolframalpha.com/sources/PeopleDataSourceInformationNotes.html'
+      text='People data' />
+ </sources>
+</queryresult>
